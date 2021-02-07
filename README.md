@@ -26,6 +26,20 @@ Open the Mandelbrot fractal ⇣
 ```
 
 # Mandelbrot:
+<img width="1202" alt="Screen Shot 2021-02-07 at 3 45 19 PM" src="https://user-images.githubusercontent.com/44867969/107150240-2fd07e00-695d-11eb-86f6-f96119dee311.png">
+
+# Julia:
+<img width="1202" alt="Screen Shot 2021-02-07 at 3 44 25 PM" src="https://user-images.githubusercontent.com/44867969/107150250-36f78c00-695d-11eb-97d0-98dcc35bf22c.png">
+
+# Tricorn:
+<img width="1202" alt="Screen Shot 2021-02-07 at 3 45 34 PM" src="https://user-images.githubusercontent.com/44867969/107150276-50003d00-695d-11eb-9c15-1fb68aee8d83.png">
+
+# Heart mandelbrot
+<img width="1202" alt="Screen Shot 2021-02-07 at 3 46 09 PM" src="https://user-images.githubusercontent.com/44867969/107150297-6a3a1b00-695d-11eb-8c62-c50209cb1c3a.png">
+
+# Multibrot
+<img width="1200" alt="Screen Shot 2021-02-07 at 3 46 31 PM" src="https://user-images.githubusercontent.com/44867969/107150303-71612900-695d-11eb-93f5-96ae89562c26.png">
+
 
 
 ## Keyboard shortcuts
