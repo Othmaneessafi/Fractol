@@ -87,7 +87,7 @@ Open the Mandelbrot fractal ⇣
 <td valign="top" align="center"><kbd>&nbsp;+&nbsp;</kbd></td>
 </tr>
 <tr>
-<td valign="top" height="30px">Decrease the numbre of iterations</td>
+<td valign="top" height="30px">Decrease the number of iterations</td>
 <td valign="top" align="center"><kbd>&nbsp;-&nbsp;</kbd></td>
 </tr>
 <tr>
