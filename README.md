@@ -1,9 +1,8 @@
 # Fractol
 
-# Fractol
+Fractol is a graphic project that render amazing Fractals. Developed for my learning course at 1337 school.
+Several options are available :
 
-Fractol is a program developed for my learning course at 42 school for the exploration of Fractals.
-Several options are available (see [Keyboard shortcuts](https://github.com/BenjaminSouchet/Fractol#keyboard-shortcuts) or/and [Mouse controls](https://github.com/BenjaminSouchet/Fractol#mouse-controls) sections for more infos) :
 * Zoom and unzoom
 * Change the number of iterations
 * Move the current fractal
@@ -14,17 +13,21 @@ Several options are available (see [Keyboard shortcuts](https://github.com/Benja
 
 ## Install & launch
 ```bash
-git clone https://github.com/BenjaminSouchet/Fractol ~/Fractol
-cd ~/Fractol && ./fractol Julia
+git clone https://github.com/Othmaneessafi/Fractol ~/Fractol
+cd ~/Fractol && ./fractol 1 ([fractal number])
 ```
-You have to launch the program with a parameter. This is the name of the fractal you would like to open at the execution of the program. This parameter as to be the name of a valid fractal (Julia, Mandelbrot or Tricorn).<br />
+You have to launch the program with a parameter. This is the number of the fractal you would like to open at the execution of the program.
 
 Example :
 
 Open the Mandelbrot fractal ⇣
 ```bash
-./fractol Mandelbrot
+./fractol 1
 ```
+
+# Mandelbrot:
+
+
 ## Keyboard shortcuts
 
 <table width="100%">
