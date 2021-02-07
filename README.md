@@ -6,10 +6,8 @@ Several options are available :
 * Zoom and unzoom
 * Change the number of iterations
 * Move the current fractal
-* Rotate by step of 90°
 * Edit the display gradient
-* Navigate between the three fractals
-* Edit the shape of the fractal with the position of the mouse (only available with the fractal Julia)
+* Navigate between the fractals
 
 ## Install & launch
 ```bash
