@@ -32,6 +32,10 @@ Open the Mandelbrot fractal ⇣
 # Tricorn:
 <img width="1202" alt="Screen Shot 2021-02-07 at 3 45 34 PM" src="https://user-images.githubusercontent.com/44867969/107150276-50003d00-695d-11eb-9c15-1fb68aee8d83.png">
 
+# BurnignShip
+<img width="1202" alt="Screen Shot 2021-02-07 at 4 07 58 PM" src="https://user-images.githubusercontent.com/44867969/107150571-acb02780-695e-11eb-9553-42d3334ce37d.png">
+
+
 # Heart mandelbrot
 <img width="1202" alt="Screen Shot 2021-02-07 at 3 46 09 PM" src="https://user-images.githubusercontent.com/44867969/107150297-6a3a1b00-695d-11eb-8c62-c50209cb1c3a.png">
 
